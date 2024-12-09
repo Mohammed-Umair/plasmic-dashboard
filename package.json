@@ -1,0 +1,32 @@
+{
+  "name": "dashboard-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.334",
+    "@plasmicapp/react-web": "^0.2.356",
+    "@plasmicpkgs/antd5": "^0.0.256",
+    "@plasmicpkgs/plasmic-embed-css": "^0.1.192",
+    "@plasmicpkgs/react-chartjs-2": "^1.0.112",
+    "chart.js": "^4.4.7",
+    "lodash": "^4.17.21",
+    "next": "14.2.19",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.19",
+    "typescript": "^5"
+  }
+}

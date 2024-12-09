@@ -1,0 +1,12 @@
+.root:global(.__wab_instance) {
+  width: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+  display: block;
+  font-family: "Ingrid Darling";
+  background: #ffffff;
+  font-size: var(--token-EBGyLHrpfttb);
+  min-width: 0;
+  border-radius: 11px;
+}
